@@ -1,6 +1,6 @@
 #EventBusDemo
 
-This is a sample for EventBus.
+This is a sample for EventBus 3.0.
 
 See [greenrobot/EventBus](https://github.com/greenrobot/EventBus)
 
